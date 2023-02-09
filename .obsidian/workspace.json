@@ -134,7 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 605.5
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +146,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "94530699cfcce017",
+  "active": "9850ed439c0397c2",
   "lastOpenFiles": [
     "性能/性能测试指标（多快好省）.md",
     "性能/postman.md",
