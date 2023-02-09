@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3cc12bea375be341",
+        "id": "109e19c66383f42f",
         "type": "tabs",
         "children": [
           {
-            "id": "f725d92f67566226",
+            "id": "94530699cfcce017",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "性能/性能测试指标（多快好省）.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "性能/性能测试指标（多快好省）.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "性能/性能测试指标（多快好省）.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +118,23 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "性能/性能测试指标（多快好省）.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "9850ed439c0397c2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 605.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,17 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f725d92f67566226",
+  "active": "94530699cfcce017",
   "lastOpenFiles": [
-    "性能/Jmeter.md",
     "性能/性能测试指标（多快好省）.md",
+    "性能/postman.md",
+    "性能/Jmeter.md",
     "Pasted image 20230207094047.png",
     "Obsidian/PicGo 安装及配置.md",
     "Obsidian/Obsidian多端同步.md",
     "Pasted image 20230207094047.png.md",
     "随笔.md",
     "README.md",
-    "未命名 1.canvas",
-    "未命名.canvas"
+    "未命名 1.canvas"
   ]
 }
