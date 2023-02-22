@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "e589e55bac6170e4",
+        "id": "b9500632be035aed",
         "type": "tabs",
         "children": [
           {
-            "id": "31ed6a62dff33dfc",
+            "id": "ace6c6262e3296ca",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "python/双链/多线程 多进程 多协程.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "python/双链/多线程 多进程 多协程.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "python/双链/多线程 多进程 多协程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "python/双链/多线程 多进程 多协程.md"
+              }
             }
           },
           {
@@ -134,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 554.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,15 +156,15 @@
   },
   "active": "9850ed439c0397c2",
   "lastOpenFiles": [
-    "性能/性能指标.md",
-    "性能/Jmeter.md",
-    "性能/性能测试指标（多快好省）.md",
-    "性能/postman.md",
-    "Pasted image 20230207094047.png",
-    "Obsidian/PicGo 安装及配置.md",
-    "Obsidian/Obsidian多端同步.md",
-    "Pasted image 20230207094047.png.md",
-    "随笔.md",
-    "README.md"
+    "python/双链/进程的注意点：不共享全局变量，守护进程.md",
+    "python/双链/匿名函数lamda.md",
+    "python/双链/上下文管理器.md",
+    "python/双链/生成器 迭代器.md",
+    "python/双链/property属性.md",
+    "python/双链/抽象类.md",
+    "python/双链/多态.md",
+    "python/双链/多线程 多进程 多协程.md",
+    "python/8.多任务.md",
+    "python/4.其他查询.md"
   ]
 }
