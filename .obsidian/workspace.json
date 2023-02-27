@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d794dc9380f0803d",
+        "id": "04edbecccc9b4a9f",
         "type": "tabs",
         "children": [
           {
-            "id": "e4f98d0fc8835cb4",
+            "id": "27ef4a21de847eef",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,10 +157,18 @@
       "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false
     }
   },
-  "active": "e4f98d0fc8835cb4",
+  "active": "27ef4a21de847eef",
   "lastOpenFiles": [
-    "Obsidian/ios.md",
+    "数据结构/队列.md",
+    "python/1.格式化输出.md",
+    "数据结构/树.md",
+    "数据结构/栈.md",
+    "数据结构/set集合.md",
+    "数据结构/哈希表.md",
+    "数据结构/图.md",
+    "数据结构/链表.md",
     "python/4.其他查询.md",
+    "Obsidian/ios.md",
     "python/双链/property属性.md",
     "python/双链/生成器 迭代器.md",
     "python/双链/上下文管理器.md",
@@ -179,10 +187,6 @@
     "().md",
     "Excalidraw/Drawing 2023-02-23 10.26.04.excalidraw.md",
     "README.md",
-    "随笔.md",
-    "2023-02-23.md",
-    "sql/查表空间和创建用户.md",
-    "sql/锁表.md",
-    "sql/查分区.md"
+    "随笔.md"
   ]
 }
