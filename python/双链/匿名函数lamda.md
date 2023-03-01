@@ -1,10 +1,10 @@
 # 匿名函数lamda
-函数名 = lambda 入参：计算公式
+函数名 = lambda 入参：参数的表达式
 ```python
 func = lambda : 1 + 1
 print(func)                             #内存地址
 print(func())                           #2
-func = lambda m, n: m if m > n else n   #只能用if三目运算 其他for，while和普通if都不行
+func = lambda m, n: m if m > n else n   #只能用if三目运算/列表推导式 其他for，while和普通if都不行
 print(func(11, 2))                      #11
 ```
 
