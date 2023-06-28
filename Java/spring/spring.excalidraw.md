@@ -10,7 +10,7 @@ tags: [excalidraw]
 # Text Elements
 
 # Embedded files
-647024ab0359ef121ee91c767333e0537087c220: [[Pasted Image 20230308195828_010.png]]
+647024ab0359ef121ee91c767333e0537087c220: [[spring ioc.png]]
 
 %%
 # Drawing

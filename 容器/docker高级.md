@@ -583,10 +583,13 @@ Docker-Compose的版本需要和Docker引擎版本对应，可以参照官网上
 安装Compose：  
   
 
-```
+```shell
 # 例如从github下载 2.5.0版本的docker-compose
 # 下载下来的文件放到 /usr/local/bin目录下，命名为 docker-compose
 curl -L https://github.com/docker/compose/releases/download/v2.5.0/docker-compose-$(uname -s)-$(uname -m) -o /usr/local/bin/docker-compose
+
+# 连不上的情况
+curl -L https://get.daocloud.io/docker/compose/releases/download/1.25.4/docker-compose-`uname -s`-`uname -m` > /usr/local/bin/docker-compose
 
 # 添加权限
 chmod +x /usr/local/bin/docker-compose
@@ -704,12 +707,41 @@ docker-compose stop
   
 
 
-```
+```yaml
 # docker-compose文件版本号
 version: "3"
-
-# 配置各个容器服务
 services:
+# 配置各个容器服务
+
+  lt-mysql:
+      # 容器名(以后的控制都通过这个)
+    container_name: lt-mysql
+      # 重启策略
+    restart: always
+    image: mysql:5.7
+    ports:
+      - "3306:3306"
+    volumes:
+       # 挂挂载配置文件
+       #  - ./mysql/db/:/docker-entrypoint-initdb.d
+      # 挂挂载配置文件
+      - ./mysql/conf:/etc/mysql
+      # 挂载日志
+      - ./mysql/logs:/var/log
+      # 挂载数据
+      - ./mysql/data:/var/lib/mysql
+    command: [
+          'mysqld',
+          '--innodb-buffer-pool-size=80M',
+          '--character-set-server=utf8mb4',
+          '--collation-server=utf8mb4_unicode_ci',
+          '--default-time-zone=+8:00',
+          '--lower-case-table-names=1',
+          '--default-authentication-plugin=mysql_native_password' # 解决外部无法访问
+        ]
+    environment:
+      # root 密码
+      MYSQL_ROOT_PASSWORD: 123456
   microService:
     image: springboot_docker:1.0
     container_name: ms01  # 容器名称，如果不指定，会生成一个服务名加上前缀的容器名
@@ -733,24 +765,6 @@ services:
     networks:
       - springboot_network
     command: redis-server /etc/redis/redis.conf
-
-  mysql:
-    image: mysql:5.7
-    environment:
-      MYSQL_ROOT_PASSWORD: '123456'
-      MYSQL_ALLOW_EMPTY_PASSWORD: 'no'
-      MYSQL_DATABASE: 'db_springboot'
-      MYSQL_USER: 'springboot'
-      MYSQL_PASSWORD: 'springboot'
-    ports:
-      - "3306:3306"
-    volumes:
-      - /app/mysql/db:/var/lib/mysql
-      - /app/mysql/conf/my.cnf:/etc/my.cnf
-      - /app/mysql/init:/docker-entrypoint-initdb.d
-    networks:
-      - springboot_network
-    command: --default-authentication-plugin=mysql_native_password # 解决外部无法访问
 
 networks:
   # 创建 springboot_network 网桥网络

@@ -1,0 +1,637 @@
+{
+  "rootTopicKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+  "editorRootTopicKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+  "focusKey": "6a0d05bd-0c60-4878-89af-40a348dee558",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "1b47acd4-a579-4a29-9931-6bb79c476c54",
+      "parentKey": "442cf6d6-d889-4e0e-8982-4bab56a10d99",
+      "subKeys": [
+        "22d5ad21-67da-4e3e-a07a-93da3bef0934"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "场外衍生品"
+        }
+      ]
+    },
+    {
+      "key": "14d6bc24-43b6-4b44-bf6b-e98608a142c8",
+      "parentKey": "82fc33f1-5bee-4059-bc03-7193c9bafea4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "不能以合理成本获得充足资金"
+        }
+      ]
+    },
+    {
+      "key": "7403b826-1ee2-4d58-958c-2340950763cb",
+      "parentKey": "f4522f88-2950-44f8-be90-1504e3acac6a",
+      "subKeys": [
+        "ee557ec2-40c6-4eac-b84b-b96f8e361c25"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险规避"
+        }
+      ]
+    },
+    {
+      "key": "77b33eee-590c-49f6-9e3b-480c1ad0f122",
+      "parentKey": "d866d009-01d6-4242-bf6e-629185dfa01c",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险控制在 自己能接受的水平"
+        }
+      ]
+    },
+    {
+      "key": "e2415be2-72d3-4eb3-90d7-2cfdf3758bc3",
+      "parentKey": "ebf3ff8f-ab58-4fde-9f46-7f50f525d0a1",
+      "subKeys": [
+        "d013b0bf-61f4-45ac-855a-c8a96dfab545",
+        "3ac41c9e-b9c7-411f-a5db-5aaf6638f0b6",
+        "64b314b3-db69-49f3-b91b-80795749602c",
+        "8825d606-4ea2-4949-a107-fa2260ae3961"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险管理流程"
+        }
+      ]
+    },
+    {
+      "key": "8825d606-4ea2-4949-a107-fa2260ae3961",
+      "parentKey": "e2415be2-72d3-4eb3-90d7-2cfdf3758bc3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "监测预警报告"
+        }
+      ]
+    },
+    {
+      "key": "f8d4ffbd-3ba4-4958-b022-37fff82b79bd",
+      "parentKey": "f4522f88-2950-44f8-be90-1504e3acac6a",
+      "subKeys": [
+        "5941cf7c-de24-46df-afb6-58ae42101280"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险补偿与准备金"
+        }
+      ]
+    },
+    {
+      "key": "3ac41c9e-b9c7-411f-a5db-5aaf6638f0b6",
+      "parentKey": "e2415be2-72d3-4eb3-90d7-2cfdf3758bc3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "衡量"
+        }
+      ]
+    },
+    {
+      "key": "472829d3-98ca-4020-b18b-720dabbda223",
+      "parentKey": "67e38efe-c133-4b0f-96a3-7407f0d39067",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "分散投资"
+        }
+      ]
+    },
+    {
+      "key": "1d15e90d-9219-488e-8635-cf3b5c4f0aa7",
+      "parentKey": "c87e2553-5d15-43c0-aae4-c68096999877",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "担保/保险"
+        }
+      ]
+    },
+    {
+      "key": "31e92bb9-f3ef-42a0-a930-b23d4d995060",
+      "parentKey": "937708bf-259a-4c3e-8257-5a1c6f303abe",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "信用评级"
+        }
+      ]
+    },
+    {
+      "key": "b80dd580-1f62-4d38-a6e5-d644ae6c398f",
+      "parentKey": "442cf6d6-d889-4e0e-8982-4bab56a10d99",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "非标准化债权资产投资"
+        }
+      ]
+    },
+    {
+      "key": "ee557ec2-40c6-4eac-b84b-b96f8e361c25",
+      "parentKey": "7403b826-1ee2-4d58-958c-2340950763cb",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "有风险不干"
+        }
+      ]
+    },
+    {
+      "key": "7dd5a916-2640-4b40-a70b-15a0908240d1",
+      "parentKey": "f4522f88-2950-44f8-be90-1504e3acac6a",
+      "subKeys": [
+        "96e48ae9-b0ce-4853-85aa-7e6a56ae6d9f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险对冲"
+        }
+      ]
+    },
+    {
+      "key": "7f0e5edc-85a3-4a7f-9585-5fa0327fc669",
+      "parentKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+      "subKeys": [
+        "58dcba02-2605-4a08-bdda-03beb59277da",
+        "f4522f88-2950-44f8-be90-1504e3acac6a"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "概述"
+        }
+      ]
+    },
+    {
+      "key": "82fc33f1-5bee-4059-bc03-7193c9bafea4",
+      "parentKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+      "subKeys": [
+        "14d6bc24-43b6-4b44-bf6b-e98608a142c8"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "流动性风险"
+        }
+      ]
+    },
+    {
+      "key": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+      "parentKey": null,
+      "subKeys": [
+        "7f0e5edc-85a3-4a7f-9585-5fa0327fc669",
+        "ebf3ff8f-ab58-4fde-9f46-7f50f525d0a1",
+        "0cda5d31-cb4a-4541-8905-acc7c2b45e7b",
+        "b21e1d6b-3e1c-40ad-b205-28fd83d47397",
+        "82fc33f1-5bee-4059-bc03-7193c9bafea4",
+        "cbb272d1-81d8-4a5a-8fbb-2746fd8fdbe0",
+        "0154a78f-c465-4361-a6fe-f472bb81c7ab"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "金融风险"
+        }
+      ]
+    },
+    {
+      "key": "220673e0-0131-4d9a-84e9-c6d9d49fc974",
+      "parentKey": "0cda5d31-cb4a-4541-8905-acc7c2b45e7b",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "由于基础资产市场价格的不利变动或者急剧波动而导致衍生工具价格或者价值变动的风险"
+        }
+      ]
+    },
+    {
+      "key": "22d5ad21-67da-4e3e-a07a-93da3bef0934",
+      "parentKey": "1b47acd4-a579-4a29-9931-6bb79c476c54",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "比如利率互换、汇率远期、\n信用违药互换"
+        }
+      ]
+    },
+    {
+      "key": "ebf3ff8f-ab58-4fde-9f46-7f50f525d0a1",
+      "parentKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+      "subKeys": [
+        "e2415be2-72d3-4eb3-90d7-2cfdf3758bc3"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "金融风险管理基本框架"
+        }
+      ]
+    },
+    {
+      "key": "0154a78f-c465-4361-a6fe-f472bb81c7ab",
+      "parentKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "证券公司风险管理实践"
+        }
+      ]
+    },
+    {
+      "key": "cbb272d1-81d8-4a5a-8fbb-2746fd8fdbe0",
+      "parentKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+      "subKeys": [
+        "6a0d05bd-0c60-4878-89af-40a348dee558"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "操作风险/声誉风险及其他"
+        }
+      ]
+    },
+    {
+      "key": "54d8c19d-9fcd-44d7-9e18-46c5019df812",
+      "parentKey": "442cf6d6-d889-4e0e-8982-4bab56a10d99",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "债券"
+        }
+      ]
+    },
+    {
+      "key": "b21e1d6b-3e1c-40ad-b205-28fd83d47397",
+      "parentKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+      "subKeys": [
+        "442cf6d6-d889-4e0e-8982-4bab56a10d99",
+        "937708bf-259a-4c3e-8257-5a1c6f303abe"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "信用风险管理"
+        }
+      ]
+    },
+    {
+      "key": "2fcf0766-b1c5-4cd6-b231-88ad23c2bf9e",
+      "parentKey": "476c8bc1-d1be-4d33-a3d9-4afe6a997821",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "比如回购和逆回购、证券借袋，\n其中场外衍生品规模更大"
+        }
+      ]
+    },
+    {
+      "key": "d866d009-01d6-4242-bf6e-629185dfa01c",
+      "parentKey": "f4522f88-2950-44f8-be90-1504e3acac6a",
+      "subKeys": [
+        "77b33eee-590c-49f6-9e3b-480c1ad0f122"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险控制"
+        }
+      ]
+    },
+    {
+      "key": "c87e2553-5d15-43c0-aae4-c68096999877",
+      "parentKey": "f4522f88-2950-44f8-be90-1504e3acac6a",
+      "subKeys": [
+        "1d15e90d-9219-488e-8635-cf3b5c4f0aa7"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险转移"
+        }
+      ]
+    },
+    {
+      "key": "5941cf7c-de24-46df-afb6-58ae42101280",
+      "parentKey": "f8d4ffbd-3ba4-4958-b022-37fff82b79bd",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "银行准备金类似（净资本）"
+        }
+      ]
+    },
+    {
+      "key": "96e48ae9-b0ce-4853-85aa-7e6a56ae6d9f",
+      "parentKey": "7dd5a916-2640-4b40-a70b-15a0908240d1",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "套期保值这类的对冲交易"
+        }
+      ]
+    },
+    {
+      "key": "67e38efe-c133-4b0f-96a3-7407f0d39067",
+      "parentKey": "f4522f88-2950-44f8-be90-1504e3acac6a",
+      "subKeys": [
+        "472829d3-98ca-4020-b18b-720dabbda223"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险分散"
+        }
+      ]
+    },
+    {
+      "key": "64b314b3-db69-49f3-b91b-80795749602c",
+      "parentKey": "e2415be2-72d3-4eb3-90d7-2cfdf3758bc3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "应对"
+        }
+      ]
+    },
+    {
+      "key": "476c8bc1-d1be-4d33-a3d9-4afe6a997821",
+      "parentKey": "442cf6d6-d889-4e0e-8982-4bab56a10d99",
+      "subKeys": [
+        "2fcf0766-b1c5-4cd6-b231-88ad23c2bf9e"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "证券融资交易"
+        }
+      ]
+    },
+    {
+      "key": "35a2b041-59be-45d8-9f8d-d92bd9c37a3f",
+      "parentKey": "442cf6d6-d889-4e0e-8982-4bab56a10d99",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "其他涉及信用风险\n的自有资金出资业务"
+        }
+      ]
+    },
+    {
+      "key": "f4522f88-2950-44f8-be90-1504e3acac6a",
+      "parentKey": "7f0e5edc-85a3-4a7f-9585-5fa0327fc669",
+      "subKeys": [
+        "7403b826-1ee2-4d58-958c-2340950763cb",
+        "d866d009-01d6-4242-bf6e-629185dfa01c",
+        "67e38efe-c133-4b0f-96a3-7407f0d39067",
+        "7dd5a916-2640-4b40-a70b-15a0908240d1",
+        "c87e2553-5d15-43c0-aae4-c68096999877",
+        "f8d4ffbd-3ba4-4958-b022-37fff82b79bd"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "风险管理策略"
+        }
+      ]
+    },
+    {
+      "key": "d013b0bf-61f4-45ac-855a-c8a96dfab545",
+      "parentKey": "e2415be2-72d3-4eb3-90d7-2cfdf3758bc3",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "识别"
+        }
+      ]
+    },
+    {
+      "key": "0cda5d31-cb4a-4541-8905-acc7c2b45e7b",
+      "parentKey": "b8098bc2-99c9-41ef-b1b0-e89c3a7bd459",
+      "subKeys": [
+        "220673e0-0131-4d9a-84e9-c6d9d49fc974"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "市场风险管理"
+        }
+      ]
+    },
+    {
+      "key": "937708bf-259a-4c3e-8257-5a1c6f303abe",
+      "parentKey": "b21e1d6b-3e1c-40ad-b205-28fd83d47397",
+      "subKeys": [
+        "31e92bb9-f3ef-42a0-a930-b23d4d995060"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "衡量"
+        }
+      ]
+    },
+    {
+      "key": "442cf6d6-d889-4e0e-8982-4bab56a10d99",
+      "parentKey": "b21e1d6b-3e1c-40ad-b205-28fd83d47397",
+      "subKeys": [
+        "1b47acd4-a579-4a29-9931-6bb79c476c54",
+        "476c8bc1-d1be-4d33-a3d9-4afe6a997821",
+        "54d8c19d-9fcd-44d7-9e18-46c5019df812",
+        "b80dd580-1f62-4d38-a6e5-d644ae6c398f",
+        "35a2b041-59be-45d8-9f8d-d92bd9c37a3f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "违约"
+        }
+      ]
+    },
+    {
+      "key": "6a0d05bd-0c60-4878-89af-40a348dee558",
+      "parentKey": "cbb272d1-81d8-4a5a-8fbb-2746fd8fdbe0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "信息系统或内部控制缺陷导致意外损失的风险"
+        }
+      ]
+    },
+    {
+      "key": "58dcba02-2605-4a08-bdda-03beb59277da",
+      "parentKey": "7f0e5edc-85a3-4a7f-9585-5fa0327fc669",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "高风险高收益，事前管理，创造价值"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 0,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": "0.0"
+}

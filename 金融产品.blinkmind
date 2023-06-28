@@ -1,0 +1,495 @@
+{
+  "rootTopicKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+  "editorRootTopicKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+  "focusKey": "bdd6b354-0281-4b46-8a0d-5176a08c0dcb",
+  "extData": {
+    "TOPIC_REFERENCE": {
+      "reference": {}
+    }
+  },
+  "topics": [
+    {
+      "key": "dd79f757-9b43-46ac-82f2-c686a58ba86e",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "efd29b1f-58d4-4b37-8be0-d6ce15e4bf70"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "做市交易业务"
+        }
+      ]
+    },
+    {
+      "key": "bfe0a3c3-918b-428c-97a2-c82c5597b337",
+      "parentKey": "f5de812a-b94d-411c-8779-fb8230ecc79a",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "具体包括企业债、公司债、短期融资券、中期票据、分离交易可转债、资产支持证券、次级债等品种"
+        }
+      ]
+    },
+    {
+      "key": "63b59a94-9e1d-4599-8d70-6c363a776b8a",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "bdd6b354-0281-4b46-8a0d-5176a08c0dcb"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "转融通"
+        }
+      ]
+    },
+    {
+      "key": "5c966795-8fc8-4a3e-9bab-f41af9fad3b0",
+      "parentKey": "7f315786-1f64-468f-be61-5bf1dff80170",
+      "subKeys": [
+        "d69bba35-f223-48bf-8b80-47282a9e8f80"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "投资非权益类业务"
+        }
+      ]
+    },
+    {
+      "key": "682c5f15-c4d0-4f0b-8504-44b51ce52f9f",
+      "parentKey": "968caf1e-ccc3-4436-a586-1e7d13ac9463",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "股票、棉花等为标的标准化可交易合约"
+        }
+      ]
+    },
+    {
+      "key": "bdd6b354-0281-4b46-8a0d-5176a08c0dcb",
+      "parentKey": "63b59a94-9e1d-4599-8d70-6c363a776b8a",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "是指由银行、基金和保险公司等机构提供资金和证券，证券公司作为中介将这些资金和证券提供给融资融券客户"
+        }
+      ]
+    },
+    {
+      "key": "2917e756-d73c-4477-a9b1-f495937c81af",
+      "parentKey": "99362014-51c3-4aa9-8b79-8b1e5ed200de",
+      "subKeys": [
+        "1b6d3643-e5e6-420d-91b8-93e24be8d8ba"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "债券利率随市场利率浮动"
+        }
+      ]
+    },
+    {
+      "key": "f5f60ac7-a328-4937-ab00-d87627ed8378",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "82e25b8e-7905-438b-b415-326096b4ad72"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "新三板"
+        }
+      ]
+    },
+    {
+      "key": "839a7ea8-ec1a-43e2-908b-a6088f8afbb6",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "63d365a0-3ce6-4ca3-bdfd-ba2de355a712"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "期权"
+        }
+      ]
+    },
+    {
+      "key": "8a3b3148-d219-4202-b50c-6b8277741638",
+      "parentKey": "bff78b61-2a49-4a87-91c9-33d61c89e7a7",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "投资者向具有融资融券业务资格的证券公司提供担保物，借入资金买入证券（融资交易）或借入证券并卖出（融券交易）的行为"
+        }
+      ]
+    },
+    {
+      "key": "2ae366c2-6b27-4991-b933-9306b044d3f4",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "c6c2926d-8b4d-4178-b370-299a26df4bc2"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "利率互换"
+        }
+      ]
+    },
+    {
+      "key": "f5de812a-b94d-411c-8779-fb8230ecc79a",
+      "parentKey": "b90fa7df-78c0-45fa-b114-011db8c649b3",
+      "subKeys": [
+        "bfe0a3c3-918b-428c-97a2-c82c5597b337"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "政府之外的主体发行的、约定了确定的本息偿付现金流的债券。"
+        }
+      ]
+    },
+    {
+      "key": "99362014-51c3-4aa9-8b79-8b1e5ed200de",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "2917e756-d73c-4477-a9b1-f495937c81af"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "利率债"
+        }
+      ]
+    },
+    {
+      "key": "150cfcdd-eccf-4aa3-97bd-7d390b6f7b31",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "股票"
+        }
+      ]
+    },
+    {
+      "key": "63d365a0-3ce6-4ca3-bdfd-ba2de355a712",
+      "parentKey": "839a7ea8-ec1a-43e2-908b-a6088f8afbb6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "持有人在某一特定日期或该日之前的任何时间以固定价格购进或售出一种资产的权利"
+        }
+      ]
+    },
+    {
+      "key": "bff78b61-2a49-4a87-91c9-33d61c89e7a7",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "8a3b3148-d219-4202-b50c-6b8277741638"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": " 融资融券"
+        }
+      ]
+    },
+    {
+      "key": "7f315786-1f64-468f-be61-5bf1dff80170",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "5c966795-8fc8-4a3e-9bab-f41af9fad3b0"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "非权益类基金"
+        }
+      ]
+    },
+    {
+      "key": "82e25b8e-7905-438b-b415-326096b4ad72",
+      "parentKey": "f5f60ac7-a328-4937-ab00-d87627ed8378",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "全国中小企业（非上市）股份转让系统"
+        }
+      ]
+    },
+    {
+      "key": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "parentKey": null,
+      "subKeys": [
+        "b90fa7df-78c0-45fa-b114-011db8c649b3",
+        "99362014-51c3-4aa9-8b79-8b1e5ed200de",
+        "978022d9-507e-4ab3-86ef-30ca200ac6cc",
+        "7f315786-1f64-468f-be61-5bf1dff80170",
+        "5a78c976-fd7f-475f-882e-edf0e47bac59",
+        "150cfcdd-eccf-4aa3-97bd-7d390b6f7b31",
+        "f5f60ac7-a328-4937-ab00-d87627ed8378",
+        "968caf1e-ccc3-4436-a586-1e7d13ac9463",
+        "839a7ea8-ec1a-43e2-908b-a6088f8afbb6",
+        "2ae366c2-6b27-4991-b933-9306b044d3f4",
+        "dd79f757-9b43-46ac-82f2-c686a58ba86e",
+        "bff78b61-2a49-4a87-91c9-33d61c89e7a7",
+        "63b59a94-9e1d-4599-8d70-6c363a776b8a"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "RootTopic"
+        }
+      ]
+    },
+    {
+      "key": "b90fa7df-78c0-45fa-b114-011db8c649b3",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "f5de812a-b94d-411c-8779-fb8230ecc79a"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "信用债"
+        }
+      ]
+    },
+    {
+      "key": "c6c2926d-8b4d-4178-b370-299a26df4bc2",
+      "parentKey": "2ae366c2-6b27-4991-b933-9306b044d3f4",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "两笔货币相同、债务额相同（本金相同）、期限相同的资金，作固定利率与浮动利率的调换"
+        }
+      ]
+    },
+    {
+      "key": "f5bb840d-b788-47dc-a94c-c1b8865496a6",
+      "parentKey": "5a78c976-fd7f-475f-882e-edf0e47bac59",
+      "subKeys": [
+        "dfb9fedf-9128-4fb3-b371-fc277e4b0ee6"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": " 投资权益类业务"
+        }
+      ]
+    },
+    {
+      "key": "dfb9fedf-9128-4fb3-b371-fc277e4b0ee6",
+      "parentKey": "f5bb840d-b788-47dc-a94c-c1b8865496a6",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "股票基金"
+        }
+      ]
+    },
+    {
+      "key": "a8d95da6-4ae4-4a02-acca-e1e0cf678e3b",
+      "parentKey": "978022d9-507e-4ab3-86ef-30ca200ac6cc",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": " 银行理财，资管计划，信托"
+        }
+      ]
+    },
+    {
+      "key": "efd29b1f-58d4-4b37-8be0-d6ce15e4bf70",
+      "parentKey": "dd79f757-9b43-46ac-82f2-c686a58ba86e",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "符合一定要求的证券公司为某些证券提供双边报价等行为"
+        }
+      ]
+    },
+    {
+      "key": "978022d9-507e-4ab3-86ef-30ca200ac6cc",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "a8d95da6-4ae4-4a02-acca-e1e0cf678e3b"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "非标金融产品"
+        }
+      ]
+    },
+    {
+      "key": "d69bba35-f223-48bf-8b80-47282a9e8f80",
+      "parentKey": "5c966795-8fc8-4a3e-9bab-f41af9fad3b0",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "货币基金，债券基金"
+        }
+      ]
+    },
+    {
+      "key": "968caf1e-ccc3-4436-a586-1e7d13ac9463",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "682c5f15-c4d0-4f0b-8504-44b51ce52f9f"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "期货"
+        }
+      ]
+    },
+    {
+      "key": "5a78c976-fd7f-475f-882e-edf0e47bac59",
+      "parentKey": "bd2369dc-f249-4621-97b8-6a53e01b87a0",
+      "subKeys": [
+        "f5bb840d-b788-47dc-a94c-c1b8865496a6"
+      ],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "权益类基金"
+        }
+      ]
+    },
+    {
+      "key": "1b6d3643-e5e6-420d-91b8-93e24be8d8ba",
+      "parentKey": "2917e756-d73c-4477-a9b1-f495937c81af",
+      "subKeys": [],
+      "collapse": false,
+      "style": null,
+      "blocks": [
+        {
+          "type": "CONTENT",
+          "data": "国债、地方政府债券、政策性金融债和央行票据"
+        }
+      ]
+    }
+  ],
+  "config": {
+    "readOnly": false,
+    "allowUndo": true,
+    "layoutDir": 0,
+    "theme": {
+      "name": "default",
+      "randomColor": true,
+      "background": "rgb(57,60,65)",
+      "highlightColor": "#50C9CE",
+      "marginH": 60,
+      "marginV": 20,
+      "contentStyle": {
+        "lineHeight": "1.5",
+        "fontSize": "16px"
+      },
+      "linkStyle": {
+        "lineRadius": 5,
+        "lineType": "curve",
+        "lineWidth": "3px"
+      },
+      "rootTopic": {
+        "contentStyle": {
+          "fontSize": "36px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "primaryTopic": {
+        "contentStyle": {
+          "fontSize": "24px"
+        },
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      },
+      "normalTopic": {
+        "subLinkStyle": {
+          "lineType": "curve",
+          "lineWidth": "3px"
+        }
+      }
+    }
+  },
+  "formatVersion": null
+}

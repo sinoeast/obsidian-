@@ -170,6 +170,8 @@ jmeter.reportgenerator.apdex_tolerated_threshold
 ```
 
 
+# fiddler抓包jmeter
+![image.png](https://gitee.com/sinoeast/imgs/raw/master/20230322155532.png)
 
 
 
